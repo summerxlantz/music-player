@@ -17,6 +17,7 @@ body {
   justify-content: center;
   font-family: 'Lato', sans-serif;
   margin: 0;
+  overflow: hidden;
 }
 
 .music-container {
